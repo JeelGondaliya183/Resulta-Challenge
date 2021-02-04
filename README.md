@@ -8,8 +8,8 @@
 
 OR
 
-3.Execute the file “main.py” using pycharm.
+3.	Execute the file “main.py” using pycharm.
 
-4. Click on the link provided in console (Example: http://127.0.0.1:5000/ )
+4. 	Click on the link provided in console (Example: http://127.0.0.1:5000/ )
 
-5. Add start and end date with maximum range of 7 days and click submit.  
+5. 	On Home Page, Add start and end date with maximum range of 7 days and click submit.  
